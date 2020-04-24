@@ -48,6 +48,15 @@ pip3 install PySide2
 python3 GraphvizerViewer.py
 ```
 
+### Anaconda
+
+If you are using Anaconda Python distribution, you have to install PySide2 in conda way.
+
+```
+conda install -c conda-forge pyside2
+python3 GraphvizerViewer.py
+```
+
 # Usage
 
 #### Open an image
